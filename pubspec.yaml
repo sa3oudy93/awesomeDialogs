@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  rive: ^0.11.1
+  rive: ^0.11.16
 
 dev_dependencies:
   flutter_test:
